@@ -34,7 +34,7 @@ from telegram.constants import ParseMode
 
 TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_TOKEN", "8633331614:AAHKOhSFUvRXUiWjM32ZPX8L9_2mBx7ePAA")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "@signaltraidingv2")
-TWELVEDATA_KEY   = os.environ.get("TWELVEDATA_KEY", "VOTRE_CLE_TWELVEDATA")
+TWELVEDATA_KEY   = os.environ.get("TWELVEDATA_KEY", "2773a81a7d494b66a12b4dee358e81cb")
 
 SYMBOLS = [
     "EUR/USD", "GBP/USD", "USD/JPY", "USD/CHF", "AUD/USD",
